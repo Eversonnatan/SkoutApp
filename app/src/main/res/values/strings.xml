@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SkoutApp</string>
+    <string name="voltar">Voltar</string>
 </resources>
